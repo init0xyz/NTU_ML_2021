@@ -1,2 +1,2 @@
-# NTU Machine Learning 2021 Homework implemention
+# NTU Machine Learning 2021 Homework implementation
 
